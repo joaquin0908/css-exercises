@@ -1,0 +1,20 @@
+.p{
+    background-color: rgb(240, 113, 155);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p#cooler{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.idOne{
+    font-size: 36px;
+    color: blue;
+}
+
+#idTwo{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
